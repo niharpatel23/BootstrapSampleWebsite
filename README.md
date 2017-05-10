@@ -1,3 +1,3 @@
-# BootstrapSampleWebsite
+# BootstrapSimpleWebsite
 
-made a sample website while learning bootstrap 3
+made a simple website while learning bootstrap 3
